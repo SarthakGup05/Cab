@@ -35,6 +35,9 @@ const ContactInfo = ({
             <div className="flex items-center">
               <FaPhoneAlt className="mr-2" /> +91 7266040593
             </div>
+            <div className="flex items-center">
+              <FaPhoneAlt className="mr-2" /> +91 8318929133
+            </div>
           </div>
         </div>
       </div>
