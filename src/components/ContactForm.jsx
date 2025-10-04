@@ -33,11 +33,11 @@ const ContactInfo = ({
               <FaEnvelope className="mr-2" /> humsafarcar0270@gmail.com
             </div>
             <div className="flex items-center">
-              <FaPhoneAlt className="mr-2" /> +91 7266040593
+              <FaPhoneAlt className="mr-2" /> +91 9956390320
             </div>
-            <div className="flex items-center">
+            {/* <div className="flex items-center">
               <FaPhoneAlt className="mr-2" /> +91 8318929133
-            </div>
+            </div> */}
           </div>
         </div>
       </div>

@@ -4,7 +4,7 @@ import { FaPhoneAlt } from 'react-icons/fa';
 const PhonenumIcon = () => {
   return (
     <a
-      href="tel:7266040593"
+      href="tel:9956390320"
       style={styles.phoneIconContainer}
     >
       <FaPhoneAlt style={styles.icon} />

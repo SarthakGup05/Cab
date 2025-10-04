@@ -42,13 +42,13 @@ const Navbar = () => {
         <div className="flex items-center space-x-6">
           {/* WhatsApp Contact */}
           <a
-            href="https://wa.me/7266040593"
+            href="https://wa.me/9956390320"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-2 hover:text-primary"
           >
             <FaWhatsapp className="text-green-500" />
-            <span>7266040593</span>
+            <span>9956390320</span>
           </a>
         </div>
       </div>
